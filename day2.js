@@ -36,5 +36,5 @@ console.log(store[1]);
 let ob = {
     name:"Raju"
 };
-
+// data type
 console.log(ob["name"]);
